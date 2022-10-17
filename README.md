@@ -8,7 +8,7 @@ a social media like app made with flutter and laravel api
 <img src='./assets/images/login.jpg' width="250"> 
 <img src='./assets/images/update.jpg' width="250"> 
 <img src='./assets/images/comments.jpg' width="250"> 
-<img src='./assets/images/post.jpg' width="250"> 
+<img src='./assets/images/posts.jpg' width="250"> 
 
 </div>
  
